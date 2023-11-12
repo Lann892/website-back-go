@@ -1,5 +1,5 @@
 [build]
-  command = "chmod +x build.sh"
+  command = "go run main.go"
   functions = "functions"
   publish = "./"
 
